@@ -7,3 +7,6 @@ Rgds
 _James_
 
     seriously nothing to see here   
+
+
+[![Docker Repository on Quay](https://quay.io/repository/jamesmcewan/dostuff/status "Docker Repository on Quay")](https://quay.io/repository/jamesmcewan/dostuff)
