@@ -1,5 +1,5 @@
 
 FROM mini/base
-RUN apk-install <packagename>
+RUN apk-install redis-server
 
 CMD ["/bin/sh"]
